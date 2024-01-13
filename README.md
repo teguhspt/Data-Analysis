@@ -40,7 +40,7 @@ Setiap pertanyaan bisnis ini dapat menjadi landasan untuk melakukan analisis dat
 Dari analisa yang telah kita lakukan pada Koridor Ciputat - CSW (S21), dapat ditarik beberapa kesimpulan
 
 1. Jumlah Pengguna Koridor: <br>
-   Koridor Cibubur - Balai Kota memiliki 190 pengguna, sementara Koridor Ciputat - CSW memiliki 180 pengguna. Pemilihan untuk menganalisis Koridor Ciputat - CSW didasarkan pada **`CARI TAU DULU.`**
+   Koridor Cibubur - Balai Kota memiliki 190 pengguna, sementara Koridor Ciputat - CSW memiliki 180 pengguna. Pemilihan untuk menganalisis Koridor Ciputat - CSW didasarkan pada fungsinya sebagai [bus pengumpan](https://megapolitan.kompas.com/read/2023/02/18/01450021/rute-transjabodetabek-s21-csw-ciputat) dengan pengguna terbanyak sehingga perlu diperhatikan.   
 
 2. Distribusi Pengguna Koridor S21 berdasarkan Gender: <br>
    Mayoritas pengguna (67.36%) adalah pria, sementara wanita menyumbang 32.64%.
