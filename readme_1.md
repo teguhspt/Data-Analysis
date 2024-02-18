@@ -1,4 +1,4 @@
-#**PUBLIC TRANSPORTATION TRANSACTION TRANSJAKARTA**
+# **PUBLIC TRANSPORTATION TRANSACTION TRANSJAKARTA**
 
 ## Latar Belakang
 Transjakarta adalah moda transportasi berbasis Bus Rapid Transit (BRT) dan non-BRT yang sudah beroperasi sejak tahun 2004 di Jakarta. Tidak hanya melayani perjalanan di dalam Kota Jakarta bahkan hingga ke wilayah megapolitan Bodetabek (Bogor, Depok, Tangerang, dan Bekasi). Transjakarta memiliki Visi `Connecting the Life of Jakarta` Menghubungkan Kehidupan Jakarta dan Misi `Togetether we provide integrated transportation services to ease and bring happiness in the life of Jakarta` Bersama-sama menyediakan layanan transportasi terintegrasi yang memudahkan dan membahagiakan kehidupan Jakarta.
