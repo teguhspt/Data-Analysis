@@ -1,7 +1,6 @@
-># <center> PUBLIC TRANSPORTATION TRANSACTION </center>
->##  **<center>== TRANSJAKARTA == </center>**
+# **PUBLIC TRANSPORTATION TRANSACTION TRANSJAKARTA**
 
-# Latar Belakang
+## Latar Belakang
 Transjakarta adalah moda transportasi berbasis Bus Rapid Transit (BRT) dan non-BRT yang sudah beroperasi sejak tahun 2004 di Jakarta. Tidak hanya melayani perjalanan di dalam Kota Jakarta bahkan hingga ke wilayah megapolitan Bodetabek (Bogor, Depok, Tangerang, dan Bekasi). Transjakarta memiliki Visi `Connecting the Life of Jakarta` Menghubungkan Kehidupan Jakarta dan Misi `Togetether we provide integrated transportation services to ease and bring happiness in the life of Jakarta` Bersama-sama menyediakan layanan transportasi terintegrasi yang memudahkan dan membahagiakan kehidupan Jakarta.
 
 Dalam mencapai visi dan misi yang telah ditetapkan, peran seorang *Data Analyst* menjadi krusial dalam memberikan dukungan konkret kepada visi dan misi yang diusung oleh Transjakarta. Melalui analisis data yang mendalam, seorang *Data Analyst* dapat memberikan kontribusi yang signifikan untuk meningkatkan kualitas layanan yang sesuai dengan prinsip-prinsip inti perusahaan. Dengan fokus pada menyediakan layanan transportasi yang terintegrasi, kami berupaya mempersembahkan kemudahan dan kegembiraan kepada warga Jakarta, sambil menjembatani dan menghubungkan kehidupan kota yang dinamis ini.
@@ -40,7 +39,7 @@ Setiap pertanyaan bisnis ini dapat menjadi landasan untuk melakukan analisis dat
 Dari analisa yang telah kita lakukan pada Koridor Ciputat - CSW (S21), dapat ditarik beberapa kesimpulan
 
 1. Jumlah Pengguna Koridor: <br>
-   Koridor Cibubur - Balai Kota memiliki 190 pengguna, sementara Koridor Ciputat - CSW memiliki 180 pengguna. Pemilihan untuk menganalisis Koridor Ciputat - CSW didasarkan pada fungsinya sebagai [bus pengumpan](https://megapolitan.kompas.com/read/2023/02/18/01450021/rute-transjabodetabek-s21-csw-ciputat) dengan pengguna terbanyak sehingga perlu diperhatikan.   
+   Koridor Cibubur - Balai Kota memiliki 190 pengguna, sementara Koridor Ciputat - CSW memiliki 180 pengguna. Pemilihan untuk menganalisis Koridor Ciputat - CSW didasarkan pada **`CARI TAU DULU.`**
 
 2. Distribusi Pengguna Koridor S21 berdasarkan Gender: <br>
    Mayoritas pengguna (67.36%) adalah pria, sementara wanita menyumbang 32.64%.
@@ -89,4 +88,4 @@ Dari analisa yang telah kita lakukan pada Koridor Ciputat - CSW (S21), dapat dit
 
     Link Tableau: [click here](https://public.tableau.com/app/profile/teguh.saputra4922/viz/Transjakarta_17050260690670/Dashboard1)
 
-    Teguh Saputra | JC Data Science Online - 12 (C)
+#### Created By : Teguh Saputra | [Email](hi.teguhsaputra@gmail.com) | JCDSOL-012 (C)
