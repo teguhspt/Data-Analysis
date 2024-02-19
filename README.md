@@ -86,6 +86,6 @@ Dari analisa yang telah kita lakukan pada Koridor Ciputat - CSW (S21), dapat dit
 5. Optimasi Layanan di Jam Tengah Hari: <br>
     Melakukan optimasi untuk perjalanan di jam 10 dan 12, karna hanya terdapat sedikit penumpang pada jam tersebut. Hal ini dapat diinfokan melalui aplikasi JAKI agar pengguna yang memerlukan armada untuk perjalanan dapat melakukan pengecekan terlebih dahulu sehingga masih mendapatkan kendaraan guna untuk memenuhi kebutuhan perjalanan mereka.
 
-    Link Tableau: [click here](https://public.tableau.com/app/profile/teguh.saputra4922/viz/Transjakarta_17050260690670/Dashboard1)
+    Link Tableau: [click here](https://public.tableau.com/app/profile/teguh.saputra4922/viz/TransjakartaUpdate/Dashboard1)
 
 #### Created By : Teguh Saputra | [Email](hi.teguhsaputra@gmail.com) | JCDSOL-012 (C)
